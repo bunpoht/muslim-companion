@@ -22,6 +22,9 @@
 ## 📥 Download & Installation
 This application is distributed directly by the developer via **GitHub Releases**.
 
+Download the latest APK here:  
+👉 [Muslim Companion v1.0.0 on GitHub Releases](https://github.com/bunpoht/muslim-companion/releases/tag/v1.0.0)
+
 1. Download the latest APK from the **Releases** section  
 2. Enable *Install unknown apps* on your Android device  
 3. Install the APK and start using the app  
